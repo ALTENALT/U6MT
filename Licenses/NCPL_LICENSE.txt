@@ -1,0 +1,30 @@
+
+No-Commercial Public License (NCPL)
+
+Copyright (c) [2024] [Mustafa Yusuf Aksu]
+
+By using this software, you agree to the following terms:
+
+1. You may use, modify, and distribute the software.
+2. You may not use any version of the software for commercial purposes or to gain financial profit.
+3. When distributing modified versions of the software's source code, this license must also be applied in the same manner.
+4. You must appropriately attribute the original author of the software (Mustafa Yusuf Aksu).
+
+This license provides no warranty, and the software is provided "as is."
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+No-Commercial Public License (NCPL)
+
+Copyright (c) [2024] [Mustafa Yusuf Aksu]
+
+Bu yazılımı kullanarak aşağıdaki şartları kabul etmiş olursunuz:
+
+1. Yazılımı kullanabilir, değiştirebilir ve dağıtabilirsiniz.
+2. Yazılımın hiçbir versiyonunu ticari kazanç sağlamak amacıyla kullanamazsınız.
+3. Yazılımın kaynak kodunun değiştirilmiş versiyonlarını dağıtırken, bu lisansın aynı şekilde uygulanması zorunludur.
+4. Yazılımın orijinal yazarını (Mustafa Yusuf Aksu) uygun şekilde belirtmelisiniz.
+
+Bu lisans, herhangi bir garanti sağlamaz ve yazılım "olduğu gibi" sunulur.
+
+
